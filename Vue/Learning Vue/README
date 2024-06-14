@@ -1,0 +1,12 @@
+Commands for terminal
+Activate the virtual environment
+- wn Vue
+
+This is to run the site
+- npx serve
+
+This is for the db server, if you make a change you'll need to reboot it
+- npx json-server db.json -p 3001
+
+To start both the site and the db server simaltaneously
+- npm run start
