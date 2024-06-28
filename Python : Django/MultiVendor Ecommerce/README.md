@@ -1,1 +1,1 @@
-This is a new project. I will add more to this later
+This is a Multi-Vendor Ecommerce site built following a Udemy Course
