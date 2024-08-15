@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Default ignored files
 /shelf/
 /workspace.xml
@@ -9,3 +10,6 @@
 
 # Environments
 .env
+=======
+/db.sqlite3
+>>>>>>> 75c753c (Database Relationships)
