@@ -9,5 +9,5 @@
 
 # Environments
 .env
-/db.sqlite3
 staticfiles/
+db.sqlite3
