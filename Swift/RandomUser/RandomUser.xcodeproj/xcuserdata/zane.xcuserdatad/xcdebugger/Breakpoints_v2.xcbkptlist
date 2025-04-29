@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B4402D74-0A8A-45B0-96B4-30D3B210E054"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A890A678-358F-45CB-BB3C-248FE358E3DC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomUserTests/RandomUserTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getTestJSONData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B0579DB-59FA-4C7B-A4CF-8A3FFB3DBFD3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomUserTests/RandomUserTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getTestJSONData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1B0579DB-59FA-4C7B-A4CF-8A3FFB3DBFD3 - bb4a37326b56dcda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RandomUserTests.RandomUserTests.getTestJSONData() -&gt; Foundation.Data"
+                  moduleName = "RandomUserTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zane/Sites/Swift/RandomUser/RandomUserTests/RandomUserTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23">
+               </Location>
+               <Location
+                  uuid = "1B0579DB-59FA-4C7B-A4CF-8A3FFB3DBFD3 - bb4a37326b56dcda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RandomUserTests.RandomUserTests.getTestJSONData() -&gt; Foundation.Data"
+                  moduleName = "RandomUserTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zane/Sites/Swift/RandomUser/RandomUserTests/RandomUserTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

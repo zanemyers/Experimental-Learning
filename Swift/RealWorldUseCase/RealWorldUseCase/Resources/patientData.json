@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 34,
+    "guardianName": "Jane Doe",
+    "guardianPhoneNumber": "+1-555-123-0001",
+    "guardianEmail": "jane.doe@example.com",
+    "disabilities": ["Hearing Impairment"],
+    "notes": "John is a patient with partial hearing loss.",
+    "homeAddress": "123 Maple Street, Kampala, Uganda",
+    "coordinates": {
+      "latitude": 0.3476,
+      "longitude": 32.5825
+    },
+    "imageName": "defaultPatient"
+  },
+  {
+    "id": 2,
+    "name": "Emma White",
+    "age": 28,
+    "guardianName": "Oliver White",
+    "guardianPhoneNumber": "+1-555-123-0002",
+    "guardianEmail": "oliver.white@example.com",
+    "disabilities": ["Dyslexia"],
+    "notes": "Emma struggles with reading and writing due to dyslexia.",
+    "homeAddress": "456 Oak Avenue, Kampala, Uganda",
+    "coordinates": {
+      "latitude": 0.3476,
+      "longitude": 32.5825
+    },
+    "imageName": "defaultPatient"
+  },
+  {
+    "id": 3,
+    "name": "Michael Brown",
+    "age": 40,
+    "guardianName": "Sarah Brown",
+    "guardianPhoneNumber": "+1-555-123-0003",
+    "guardianEmail": "sarah.brown@example.com",
+    "disabilities": ["Mobility Impairment"],
+    "notes": "Michael has limited mobility and uses a wheelchair.",
+    "homeAddress": "789 Pine Street, Kampala, Uganda",
+    "coordinates": {
+      "latitude": 0.3476,
+      "longitude": 32.5825
+    },
+    "imageName": "defaultPatient"
+  },
+  {
+    "id": 4,
+    "name": "Sophia Clark",
+    "age": 22,
+    "guardianName": "David Clark",
+    "guardianPhoneNumber": "+1-555-123-0004",
+    "guardianEmail": "david.clark@example.com",
+    "disabilities": ["Autism Spectrum Disorder"],
+    "notes": "Sophia is on the autism spectrum, with social communication challenges.",
+    "homeAddress": "321 Birch Road, Kampala, Uganda",
+    "coordinates": {
+      "latitude": 0.3476,
+      "longitude": 32.5825
+    },
+    "imageName": "defaultPatient"
+  },
+  {
+    "id": 5,
+    "name": "David Johnson",
+    "age": 30,
+    "guardianName": "Lily Johnson",
+    "guardianPhoneNumber": "+1-555-123-0005",
+    "guardianEmail": "lily.johnson@example.com",
+    "disabilities": ["Visual Impairment"],
+    "notes": "David is blind and relies on assistive technologies.",
+    "homeAddress": "654 Cedar Lane, Kampala, Uganda",
+    "coordinates": {
+      "latitude": 0.3476,
+      "longitude": 32.5825
+    },
+    "imageName": "defaultPatient"
+  }
+]
+

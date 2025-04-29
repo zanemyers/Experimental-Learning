@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name": "Kampala Outreach",
+    "address": "123 Kampala Street, Kampala, Uganda",
+    "coordinates": {
+      "latitude": 0.3136,
+      "longitude": 32.5811
+    }
+  },
+  {
+    "id": 2,
+    "name": "Entebbe Outreach",
+    "address": "456 Entebbe Road, Entebbe, Uganda",
+    "coordinates": {
+      "latitude": 0.0657,
+      "longitude": 32.4389
+    }
+  },
+  {
+    "id": 3,
+    "name": "Jinja Outreach",
+    "address": "789 Jinja Avenue, Jinja, Uganda",
+    "coordinates": {
+      "latitude": 0.4291,
+      "longitude": 33.2118
+    }
+  },
+  {
+    "id": 4,
+    "name": "Mbale Outreach",
+    "address": "321 Mbale Street, Mbale, Uganda",
+    "coordinates": {
+      "latitude": 1.0701,
+      "longitude": 34.1830
+    }
+  },
+  {
+    "id": 5,
+    "name": "Mbarara Outreach",
+    "address": "123 Mbarara Road, Mbarara, Uganda",
+    "coordinates": {
+      "latitude": -0.6057,
+      "longitude": 30.6578
+    }
+  }
+]
+
